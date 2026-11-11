@@ -1,0 +1,6 @@
+{
+  "name": "An Khanh Portfolio — SMU MITB",
+  "description": "Interactive personal portfolio of an applicant to the Master of IT in Business (MITB) program at Singapore Management University (SMU), bridging business strategy and technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
